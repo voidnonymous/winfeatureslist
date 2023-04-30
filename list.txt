@@ -5,3 +5,10 @@
 - Click "DVD or CD Sharing Options"
 - Click the enable box.
 
+> Microsoft Windows Malicious Software Recovery Tool
+- WIN + R
+- Type "MRT"
+- Press [Yes]
+- Follow instructions.
+
+
