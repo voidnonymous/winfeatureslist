@@ -1,0 +1,7 @@
+> CD/DVD Sharing
+- WIN + R (opens run prompt)
+- Type "control" (Control Panel)
+- Go to: "Hardware & Sound"
+- Click "DVD or CD Sharing Options"
+- Click the enable box.
+
